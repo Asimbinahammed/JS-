@@ -1,0 +1,16 @@
+{
+  "name": "pgrm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nlpjs/lang-en": "^4.26.1",
+    "brain.js": "^2.0.0-beta.18",
+    "natural": "^6.2.0"
+  }
+}
